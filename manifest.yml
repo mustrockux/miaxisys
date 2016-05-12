@@ -1,0 +1,5 @@
+---
+applications:
+- name: miaxisys
+  mem: 64mb
+  buildpack: https://github.com/cloudfoundry/staticfile-buildpack
